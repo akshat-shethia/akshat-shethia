@@ -7,6 +7,7 @@ Student
 I love Coding!!
 
 * 🌍  I'm based in Bangalore, India
+* 🖥️  Checkout my LeetCode profile at (http://leetcode.com/akshat-shethia/)
 * ✉️  You can contact me at [akshatshethia@gmail.com](mailto:akshatshethia@gmail.com)
 * 🚀  I'm currently working on [Competitve Coding in C++](http://github.com/akshat-shethia/Competitive-Coding-In-Cpp)
 * 🧠  I'm learning C++, React, NodeJS, NextJS, Tailwind CSS, Data Science
