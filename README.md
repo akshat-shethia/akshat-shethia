@@ -10,6 +10,7 @@ I love Coding!!
 * 🖥️  Checkout my LeetCode profile at http://leetcode.com/akshat-shethia/
 * ✉️  You can contact me at [akshatshethia@gmail.com](mailto:akshatshethia@gmail.com)
 * 🚀  I'm currently working on [Competitve Coding in C++](http://github.com/akshat-shethia/Competitive-Coding-In-Cpp)
+* 📱  You can find my Linkedin account at [Akshat Shethia](https://www.linkedin.com/in/akshat-shethia-1b79aa2b9/)
 * 🧠  I'm learning C++, React, NodeJS, NextJS, Tailwind CSS, Data Science
 * ⚡  I'm currently pursuining my btech in "Mechanical Engineering" from NIT Surat ( Batch of 2027 ) along with BS in "Data Science And Applications" from IIT Madras
 
