@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student
 -------
 
-I love Coding!!
+I love Data Science!!
 
 * 🌍  I'm based in Bangalore, India
 * 🖥️  Checkout my LeetCode profile at http://leetcode.com/akshat-shethia/
 * ✉️  You can contact me at [akshatshethia@gmail.com](mailto:akshatshethia@gmail.com)
-* 🚀  I'm currently working on [Competitve Coding in C++](http://github.com/akshat-shethia/Competitive-Coding-In-Cpp)
+* 🚀  I'm currently working on [Gen_AI_Automation_Deep_Learning](https://github.com/akshat-shethia/Gen_AI_Automation_Deep_Learning)
 * 📱  You can find my Linkedin account at [Akshat Shethia](https://www.linkedin.com/in/akshat-shethia-1b79aa2b9/)
-* 🧠  I'm learning C++, React, NodeJS, NextJS, Tailwind CSS, Data Science
+* 🧠  I'm learning Keras, Tensorflow, NLP, OpenCV etc
 * ⚡  I'm currently pursuining my btech in "Mechanical Engineering" from NIT Surat ( Batch of 2027 ) along with BS in "Data Science And Applications" from IIT Madras
 
 ### Skills
