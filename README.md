@@ -11,7 +11,7 @@ I love Data Science!!
 * ✉️  You can contact me at [akshatshethia@gmail.com](mailto:akshatshethia@gmail.com)
 * 🚀  I'm currently working on [Gen_AI_Automation_Deep_Learning](https://github.com/akshat-shethia/Gen_AI_Automation_Deep_Learning)
 * 📱  You can find my Linkedin account at [Akshat Shethia](https://www.linkedin.com/in/akshat-shethia-1b79aa2b9/)
-* 🧠  I'm learning PyTorch, NLP, OpenCV etc
+* 🧠  I'm currently learning PyTorch, NLP, OpenCV etc
 * ⚡  I'm currently pursuining my btech in "Mechanical Engineering" from NIT Surat ( Batch of 2027 ) along with BS in "Data Science And Applications" from IIT Madras
 
 ### Skills
