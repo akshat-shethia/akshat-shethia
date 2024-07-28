@@ -7,12 +7,11 @@ Student
 I love Data Science!!
 
 * 🌍  I'm based in Bangalore, India
-* 🖥️  Checkout my LeetCode profile at http://leetcode.com/akshat-shethia/
-* ✉️  You can contact me at [akshatshethia@gmail.com](mailto:akshatshethia@gmail.com)
-* 🚀  I'm currently working on [Gen_AI_Automation_Deep_Learning](https://github.com/akshat-shethia/Gen_AI_Automation_Deep_Learning)
 * 📱  You can find my Linkedin account at [Akshat Shethia](https://www.linkedin.com/in/akshat-shethia-1b79aa2b9/)
+* 🖥️  Checkout my LeetCode profile at [akshat-shethia](http://leetcode.com/akshat-shethia/)
+* ✉️  You can contact me at [akshatshethia@gmail.com](mailto:akshatshethia@gmail.com) | [akshat@akshatshethia.com](mailto:akshat@akshatshethia.com)
 * 🧠  I'm currently learning PyTorch, NLP, OpenCV etc
-* ⚡  I'm currently pursuining my btech in "Mechanical Engineering" from NIT Surat ( Batch of 2027 ) along with BS in "Data Science And Applications" from IIT Madras
+* ⚡  I'm currently pursuing a BS in "Data Science and Applications" from IIT Madras ( Batch of 2027 ), having decided in my first year to transition from NIT Surat's Mechanical Engineering program ( Batch of 2027 ) to focus solely on Data Science.
 
 ### Skills
 
