@@ -1,16 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akshat Shethia
 ======================================================================================================================================
 
-Student
--------
-
 I love Data Science!!
 
 * 🌍  I'm based in Bangalore, India
 * 📱  You can find my Linkedin account at [Akshat Shethia](https://www.linkedin.com/in/akshat-shethia-1b79aa2b9/)
 * 🖥️  Checkout my LeetCode profile at [akshat-shethia](http://leetcode.com/akshat-shethia/)
 * ✉️  You can contact me at [akshatshethia@gmail.com](mailto:akshatshethia@gmail.com) | [akshat@akshatshethia.com](mailto:akshat@akshatshethia.com)
-* 🧠  I'm currently learning PyTorch, NLP, OpenCV etc
+* 🧠  I'm currently learning TensorFlow, NLP, OpenCV etc
 * ⚡  I'm currently pursuing a BS in "Data Science and Applications" from IIT Madras ( Batch of 2027 ), having decided in my first year to transition from NIT Surat's Mechanical Engineering program ( Batch of 2027 ) to focus solely on Data Science.
 
 ### Skills
